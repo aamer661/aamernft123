@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xbe03af3a0196a50c2ba0c8a109b6e764018bf20b",
+  "SCAN_LINK": "https://polygonscan.com/token/0xbe03af3a0196a50c2ba0c8a109b6e764018bf20b",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "AamerNFT",
+  "SYMBOL": "AMER",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 5000000000000000000,
+  "DISPLAY_COST": 5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/aamernft",
+  "SHOW_BACKGROUND": true
+}
